@@ -1,15 +1,15 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: /esdn/
 
 # Site settings
-title: Awesome Title
+title: Empire State Digital Network
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: ccff33
+  secondary: 99cc00 
   secondary-dark: 333
 
 # Team names, titles and social links
