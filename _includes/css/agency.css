@@ -324,9 +324,19 @@ header .intro-text .intro-heading {
     }
 }
 
+
 section {
-    padding: 100px 0;
+    padding: 90px 0;
 }
+
+section#what-we-do 
+{
+    padding: 20px 0;
+}
+
+section#graphic-story {
+        padding: 30px 0;
+    }
 
 section h2.section-heading {
     margin-top: 0;
@@ -343,11 +353,19 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 140px 0;
+    }
+    section#what-we-do {
+        padding: 20px 0;
+    }
+    section#graphic-story {
+        padding: 40px 0;
     }
 }
+
 
 .service-heading {
     margin: 15px 0;
@@ -724,11 +742,13 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color: #000;
 }
 
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
+    color:#fff;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
